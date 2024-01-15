@@ -60,7 +60,7 @@ export const autoCreateEnv = () => {
 
   return {
     name: 'auto-create-envfile',
-    version: '0.0.1',
+    version: '0.0.2',
     config(config, { mode, command }) {
       const envDir = process.cwd()
       const envFiles = [

@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-auto-create-envfile",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Benzan Chen",
     "url": "https://github.com/abbenyyyyyy"
@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "type": "module",
-  "main": "./dist/index.umd.js",
+  "main": "./dist/index.js",
   "files":[
     "dist/*"
   ],

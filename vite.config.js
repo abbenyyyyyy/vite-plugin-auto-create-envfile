@@ -6,7 +6,7 @@ export default defineConfig({
     lib: {
       entry: resolve(__dirname, "src/index.js"),
       name: "vite-plugin-auto-create-envfile",
-      fileName: (format) => `index.${format}.js`,
+      fileName: 'index',
     },
   },
 });
